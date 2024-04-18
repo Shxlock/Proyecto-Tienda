@@ -145,7 +145,7 @@ EMAIL_HOST = "smtp.gmail.com"
 EMAIL_USE_TLS = True
 EMAIL_PORT = 587
 EMAIL_HOST_USER = "albarracinjuancarlos800@gmail.com" 
-EMAIL_HOST_PASSWORD = "qjpn vhsk bwgc rfdp"
+EMAIL_HOST_PASSWORD = ""
 
 CRISPY_ALLOWED_TEMPLATE_PACK='bootstrap4'
 CRISPY_TEMPLATE_PACK='bootstrap4'
